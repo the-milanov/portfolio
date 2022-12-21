@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+    color:rgb(33, 40, 51);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    width: 60%;
+    padding: 200px 50px 50px 50px;
+    line-height: 50px;
+    font-size: 40px;
+    font-weight: lighter;
+}
+#social-media{
+    padding: 10px 70px;
+    font-size: 20px;
+}
+#social-media > a{
+    margin-top: 10px;
+    text-decoration: none;
+    display: block;
+}
